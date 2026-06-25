@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LoggerLib/LoggerLib.vcxproj" />
-  <Project Path="LoggerLibTest/LoggerLibTest.vcxproj" />
+  <Project Path="LoggerLib/LoggerLib.vcxproj" Id="4259819d-9377-40f6-bd3a-5753aeaa6a2a" />
+  <Project Path="LoggerLibTest/LoggerLibTest.vcxproj" Id="88e910ed-ad4f-4fd7-a518-cbd68a5031b4" />
 </Solution>
